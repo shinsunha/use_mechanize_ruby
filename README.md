@@ -13,6 +13,5 @@ http://stackoverflow.com/questions/14667292/how-do-i-line-break-an-element-with-
 
 <git에 push 문제 해결><br />
 https://sites.google.com/site/hshshanium2014/-key-result/-suhaeng-gyehoegseo/error-jeongli<br />
-<br />
-<br />
+
 created by. Woori Ahn
